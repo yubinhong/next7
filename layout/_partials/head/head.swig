@@ -120,6 +120,7 @@
     }
   };
 </script>
+<script data-ad-client="ca-pub-3477951175425866" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 {% if theme.custom_file_path.head %}
   {% set custom_head = '../../../../../' + theme.custom_file_path.head %}
